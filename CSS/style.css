@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.mef-box {
+color: white;
+height: 150px;
+width: 150px;
+font-size: 25px;
+text-align: center;
+}
+
+.BOX1 {
+  background-color: rgb(33, 203, 66);
+float : left;
+
+
+
+}
+
+.BOX2 {
+  background-color: rgb(99, 36, 148);
+clear : left;
+
+}
+
+.BOX3 {
+  background-color: rgb(187, 223, 13);
+
+}
+
+.BOX4 {
+  background-color:rgb(34, 214, 209);
+
+}
+
+.BOX5 {
+  background-color: rgb(70, 32, 10);
+
+}
+
